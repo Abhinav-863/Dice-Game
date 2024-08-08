@@ -1,5 +1,6 @@
 # Dice-Game
 Overview
+
 This repository contains the Verilog code for a simple dice game implemented as a finite state machine (FSM). The game simulates the rolling of dice, evaluates the outcome, and determines if the player wins, loses, or needs to roll again based on the rules of the game.
 
 Game Rules
